@@ -1,0 +1,50 @@
+
+body {
+    background-color: black;
+    color: white;
+    line-height: 30px;
+    font-size: 20px;
+    /* text-align: center; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: yellow;
+    border-bottom: 2px solid yellow;
+}
+table {
+    width: 100%;
+}
+.half-width {
+    width: 50%;
+}
+.full-width{
+    width: 100%;
+}
+.profile-image {
+    width: 200px;
+    height: 200px;
+}
+.service{
+    text-align: center;
+}
+.service-image {
+    width: 250px;
+    height: 150px;
+}
+.border{
+    border:1px solid red;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+}
+.address-icon {
+    height: 40px;
+}
+input, label{
+    font-size: 23px;
+}
